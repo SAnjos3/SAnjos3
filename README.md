@@ -45,7 +45,7 @@ Quando não estou codando, você me encontra mergulhado em livros de fantasia e 
 
 | Projeto | Descrição | Tech Stack | Minha Contribuição |
 | :--- | :--- | :--- | :--- |
-| [**🎮 Albion RPG**](https://github.com/SBD1/2025.1-Albion) | Jogo de fantasia épica focado em conceitos avançados de banco de dados. | `Python` `Pygame` `PostgreSQL` | **Principal contribuidor.** Desenvolvi a lógica de back-end, a modelagem completa do banco de dados e a interface com Pygame. |
+| [**🎮 Albion RPG**](https://github.com/SBD1/2025.1-Albion) | Jogo de fantasia épica focado em conceitos avançados de banco de dados. | `Python` `Pygame` `PostgreSQL` | **Principal contribuidor.** Desenvolvi a lógica de back-end, a modelagem do banco de dados e a interface com Pygame. |
 | [**📚 UNBook**](https://github.com/unb-mds/2024-2-Squad01) | Plataforma para troca e doação de livros entre estudantes da UnB. | `Python` `Django` `PostgreSQL` `React` | Contribuí para o desenvolvimento do back-end e da integração com o banco de dados. |
 
 ---
