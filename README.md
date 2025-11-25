@@ -69,4 +69,3 @@ Quando não estou codando, você me encontra mergulhado em livros de fantasia e 
 *   **GitHub:** [@SAnjos3](https://github.com/SAnjos3)
 
 ---
-*"Primeiro, resolva o problema. Então, escreva o código." - John Johnson*
