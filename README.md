@@ -2,7 +2,7 @@
 
 **Estudante de Engenharia de Software (UnB) · IA aplicada · Backend Python/TypeScript**
 
-Estou no 8º semestre de Engenharia de Software na Universidade de Brasília. Comecei pelo backend (APIs em produção, bancos de dados, CI/CD) e hoje meu foco é IA aplicada: modelos de linguagem, agentes e machine learning. No estágio na Presidência da República, automatizo processos internos com agentes de IA; no TCC, desenvolvo um agente com LLM que diagnostica a causa raiz de erros em aplicações Oracle APEX.
+Estou no 8º semestre de Engenharia de Software na Universidade de Brasília. Comecei pelo backend (APIs em produção, bancos de dados, CI/CD) e hoje meu foco é IA aplicada: modelos de linguagem, agentes e machine learning. No estágio na Presidência da República, trabalho com sistemas internos em Microsoft 365 e Plone; no TCC, desenvolvo um agente com LLM que diagnostica a causa raiz de erros em aplicações Oracle APEX.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-soares-dos-anjos-6a026426a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
