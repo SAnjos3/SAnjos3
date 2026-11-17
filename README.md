@@ -31,7 +31,7 @@ Estou no 8º semestre de Engenharia de Software na Universidade de Brasília. Co
 
 ### Projetos Educacionais
 
-Projetos finais da trilha Data Science & Machine Learning da [Asimov Academy](https://asimov.academy), refeitos do zero. 🚧 Em desenvolvimento.
+Projetos finais da trilha Data Science & Machine Learning da [Asimov Academy](https://asimov.academy), refeitos do zero. Em desenvolvimento.
 
 | Projeto                                                                                           | O que é                                                                                                    | Stack                               |
 | :------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------- | :---------------------------------- |
